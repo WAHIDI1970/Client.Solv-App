@@ -1,4 +1,5 @@
 joblib>=1.2.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
 streamlit>=1.22.0
-pandas>=1.5.0  # (si vous utilisez pandas)
-scikit-learn>=1.2.0  # (si vous utilisez scikit-learn)
+numpy>=1.24.0  # (souvent requis par pandas/sklearn)
